@@ -1,0 +1,5 @@
+{
+  "name": "SmartGED - Gestion Électronique de Documents",
+  "description": "A comprehensive Document Management System (GED) featuring document categorization, detailed statistics, user management, and AI-powered classification using Google Gemini.",
+  "requestFramePermissions": []
+}
